@@ -1,0 +1,60 @@
+body {
+  font-family: "Figtree", sans-serif;
+  background-color: hsl(47, 88%, 63%);
+  font-size: 16px;
+}
+.main-container {
+  width: 400px;
+  display: block;
+  margin: 100px auto;
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: 10px 10px;
+}
+
+.image {
+  display: block;
+  margin: 0 auto;
+}
+
+.link-learning {
+  text-decoration: none;
+  background-color: hsl(47, 88%, 63%);
+  color: hsl(0, 0%, 7%);
+  font-weight: 600;
+}
+
+.link-date {
+  text-decoration: none;
+}
+
+.heading {
+  color: hsl(0, 0%, 7%);
+  font-weight: 600;
+}
+.heading:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
+
+p {
+  color: hsl(0, 0%, 7%);
+  opacity: 75%;
+}
+
+.image-profile {
+  width: 50px;
+  height: 50px;
+}
+
+.name {
+  color: hsl(0, 0%, 7%);
+  font-weight: 600;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
